@@ -1,0 +1,28 @@
+{
+  "name": "tailwindcss-striped-grid",
+  "version": "1.0.0",
+  "description": "A Tailwind CSS plugin to create striped rows for grids",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:PDMLab/tailwindcss-striped-grid.git"
+  },
+  "scripts": {
+    "release": "standard-version"
+  },
+  "keywords": [
+    "tailwind",
+    "plugin",
+    "css",
+    "grid",
+    "striped",
+    "odd"
+  ],
+  "author": "Alexander Zeitler <alexander.zeitler@pdmlab.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "tailwindcss": "^3.0"
+  },
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
