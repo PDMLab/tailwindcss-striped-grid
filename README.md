@@ -1,4 +1,4 @@
-# tailwind-striped-grid
+# tailwindcss-striped-grid
 A Tailwind CSS plugin to create striped rows for grids
 
 ## Install
