@@ -69,7 +69,7 @@ The `div` with the `striped` class is a wrapper which is using `display:contents
 ### Creating a grid with alternating rows using `grid-cols-[<numbers>]`
 
 ```html
-<div class="grid grid-cols-[5em_7em_4_em]">
+<div class="grid grid-cols-[5em_7em_4em]">
     <div>Col 1</div>
     <div>Col 2</div>
     <div>Col 3</div>
